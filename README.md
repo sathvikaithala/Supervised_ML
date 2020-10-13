@@ -25,7 +25,7 @@ Our data is stored in "LoanStats_2019Q1.csv" in the Resources folder. It houses 
 1) Naive Random Oversampling
 2) SMOTE Oversampling
 3) Undersampling
-4) Combination Sampling (SMOTEEN)
+4) Combination Sampling (SMOTEENN)
 
 ### Naive Random Oversampling
 
@@ -45,7 +45,7 @@ Our data is stored in "LoanStats_2019Q1.csv" in the Resources folder. It houses 
 ### Combination Sampling
 
 ##### Confusion Matrix and Classification Report
-![SMOTEEN Combination Sampling](Images/smoteen.png)
+![SMOTEENN Combination Sampling](Images/smoteen.png)
 
 ### Summary, Analysis, and Recommendation
 
