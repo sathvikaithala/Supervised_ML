@@ -45,7 +45,7 @@ Our data is stored in "LoanStats_2019Q1.csv" in the Resources folder. It houses 
 ### Combination Sampling
 
 ##### Confusion Matrix and Classification Report
-![SMOTEENN Combination Sampling](Images/smoteen.png)
+![SMOTEENN Combination Sampling](Images/smoteenn.png)
 
 ### Summary, Analysis, and Recommendation
 
