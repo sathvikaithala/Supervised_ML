@@ -31,20 +31,28 @@ Our data is stored in "LoanStats_2019Q1.csv" in the Resources folder. It houses 
 ##### Confusion Matrix and Classification Report
 ![Naive Random Oversampling](Images/naive_oversampled.png)
 
+---
+
 ### SMOTE Oversampling
 
 ##### Confusion Matrix and Classification Report
 ![SMOTE Oversampling](Images/smote_oversampled.png)
+
+---
 
 ### Undersampling
 
 ##### Confusion Matrix and Classification Report
 ![Undersampling](Images/undersampled.png)
 
+---
+
 ### Combination Sampling
 
 ##### Confusion Matrix and Classification Report
 ![SMOTEENN Combination Sampling](Images/smoteenn.png)
+
+---
 
 ### Summary, Analysis, and Recommendation
 
