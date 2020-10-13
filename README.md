@@ -33,7 +33,7 @@ In Naive Random Oversampling, class imbalances are handled by duplicating the ex
 ##### Confusion Matrix and Classification Report
 ![Naive Random Oversampling](Images/naive_oversampled.png)
 
-**Balanced Accuracy Score: 0.623
+**Balanced Accuracy Score: 0.623**
 
 We found that the precision for the low-risk loans (major class) was 1.00, and the precision for the high-risk loans (minor class) was very low -- 0.01.
 
@@ -49,7 +49,7 @@ As in Naive Random Oversampling, SMOTE Oversampling creates data to allow the mi
 ##### Confusion Matrix and Classification Report
 ![SMOTE Oversampling](Images/smote_oversampled.png)
 
-**Balanced Accuracy Score: 0.624
+**Balanced Accuracy Score: 0.624**
 
 We found that the precision values matched those we got in the Random Naive Oversampling method. 
 
@@ -65,7 +65,7 @@ Undersampling operates on principles opposite of what we see in oversampling. Ra
 ##### Confusion Matrix and Classification Report
 ![Undersampling](Images/undersampled.png)
 
-**Balanced Accuracy Score: 0.488
+**Balanced Accuracy Score: 0.488**
 
 The precision values of the undersampling model are similar to our other models -- very poor for high-risk application detection.
 
@@ -81,7 +81,7 @@ Combination Sampling (in this case, SMOTEENN Sampling), is a middle ground betwe
 ##### Confusion Matrix and Classification Report
 ![SMOTEENN Combination Sampling](Images/smoteenn.png)
 
-**Balanced Accuracy Score: 0.622
+**Balanced Accuracy Score: 0.622**
 
 The precision values for our Combination Sampling model are similar to all of our other models -- 0.01 for high-risk class, and 1.00 for the low-risk class.
 
