@@ -18,13 +18,14 @@ Our data is stored in "LoanStats_2019Q1.csv" in the Resources folder. It houses 
 |ChallengeFiles|Contains notebooks created for the Challenge portion of the module|
 |Images|Screenshots of confusion matrices and reports that are used in the writeup|
 
----
 
 ## Resampling Techniques - (credit_risk_resampling.ipynb)
 1) Naive Random Oversampling
 2) SMOTE Oversampling
 3) Undersampling
 4) Combination Sampling (SMOTEENN)
+
+---
 
 ### Naive Random Oversampling
 
